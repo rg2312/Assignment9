@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Problem Statement}{1}
+\contentsline {section}{\numberline {2}Assumptions}{2}
+\contentsline {section}{\numberline {3}Logic Explanation}{3}
+\contentsline {subsection}{\numberline {3.1}The Python Code}{3}
+\contentsline {subsubsection}{\numberline {3.1.1}TASK 1 - Mood of the user}{3}
+\contentsline {subsection}{\numberline {3.2}TASK 2 - Printing percentage of different moods}{3}
+\contentsline {section}{\numberline {4}Using Git}{3}
+\contentsline {section}{\numberline {5}Screenshots}{4}
+\contentsline {subsection}{\numberline {5.1}Screenshot 1 - Showing Final Output on Terminal}{4}
+\contentsline {subsection}{\numberline {5.2}Screenshot 2 - Showing Final Output in a File}{4}

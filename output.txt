@@ -1,0 +1,15 @@
+########################################WRITING INTO A OUTPUTFILE###############################################
+A is Sarcastic
+B is Happy
+C is Happy
+E is Happy
+G is Surprised
+######################################################################################
+Mood_Happy:30.0
+Mood_Sad:0.0
+Mood_Sarcastic:11.0
+Mood_Surprised:26.0
+Mood_Crook:7.0
+Mood_Neutral:15.0
+Mood_Angry:7.0
+######################################################################################
